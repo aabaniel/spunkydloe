@@ -1,6 +1,6 @@
-# Mini Splunk 2
+# Mini Splunk 2 
 
-Distributed Log Analytics Ecosystem for NSDSYST (Distributed Systems)
+Distributed.Log.Analytics.Ecosystem for NSDSYST (Distributed Systems)
 
 **To run as SERVER:**
 
